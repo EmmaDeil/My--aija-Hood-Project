@@ -10,3 +10,11 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+The farmers may not be with internet phone but we can integrate a way they can send message (sms) to how number stating the quantity of good they have available in store and we add and when customers order we text them that they has been ordered for and they should package that we will recieve it soon.
+
+
+all it can have a farming investing platform where one just ones to investing in a farmers shop.
+
