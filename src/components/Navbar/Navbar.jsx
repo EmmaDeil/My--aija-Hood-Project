@@ -4,7 +4,7 @@ import NaijaHoodLogo from '../Naija Hood - Logo (react + Svg)';
 const Navbar = () => {
   return (
     <div>
-     <nav class="navbar navbar-expand-lg bg-body-tertiary">
+     <nav class="navbar navbar-expand-lg bg-body-green-200">
   <div class="container-fluid">
      <a class="navbar-brand" href="#">
       {/* <img src="/" alt="Logo" width="30" height="24" class="d-inline-block align-text-top"/>
