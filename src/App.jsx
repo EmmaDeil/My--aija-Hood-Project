@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import AppLogo from '../public/naijahoodlogo.png'
 import './App.css'
 import PageTitle from './components/PageTitle'
 import { Routes, Route } from 'react-router-dom'
