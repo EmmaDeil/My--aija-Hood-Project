@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import AppLogo from '../public/naijahoodlogo.png'
+import AppLogo from '/naijahoodlogo.png'
 import './App.css'
 import PageTitle from './components/PageTitle'
 import { Routes, Route } from 'react-router-dom'
@@ -8,6 +8,7 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import Navbar from './components/Navbar/Navbar'
 import Footer from './components/Footer/Footer'
+import NotFound from './pages/NotFound'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Route path="/" element={<LandingPage />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/notfound" element={<NotFound />} />
       </Routes>
       <Footer />
     </>

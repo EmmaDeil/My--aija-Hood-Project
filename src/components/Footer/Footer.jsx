@@ -9,7 +9,7 @@ const Footer = () => {
                <div className='row mb-2'>
                   <div className="col">
                      <h2 style={{fontSize: '2rem', fontWeight: 'bold', color: '#198754'}}>AgroHub</h2>
-                     <p>Connecting Nigerian Farmers directly to customers, ensuring fresh produce, fair prices, and sustainability across various communities with Technology</p>
+                     <p className='text-break' style={{color: 'white'}}>Connecting Nigerian Farmers directly to customers, ensuring fresh produce, fair prices, and sustainability across various communities with Technology</p>
                      <h6 style={{textTransform: 'uppercase'}}>Connect with us</h6>
                      <ul className='list-unstyled d-flex flex-row align-items-center gap-3' style={{justifyContent: 'center'}}>
                         <li className='list-inline-item'><i className="bi bi-facebook"></i></li>

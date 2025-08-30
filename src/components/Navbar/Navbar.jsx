@@ -15,7 +15,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg bg-body-green-200">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
-            <img src={AppLogo} alt="NaijaHood Logo" width="30" height="35"/>
+            <img src={AppLogo} alt="NaijaHood Logo" width="30" height="35" className=''/>
           </Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
